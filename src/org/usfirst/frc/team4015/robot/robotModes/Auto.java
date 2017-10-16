@@ -15,6 +15,6 @@ public class Auto extends CommandGroup
 	public  Auto()
 	{
 		addSequential(new DriveToBaseLine());
-    }
+    	}
 	
 }
